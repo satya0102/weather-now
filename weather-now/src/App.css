@@ -1,0 +1,16 @@
+.app {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 30px;
+  background: linear-gradient(to bottom, #87ceeb, #ffffff);
+  min-height: 100vh;
+}
+
+h1 {
+  color: #333;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}

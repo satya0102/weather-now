@@ -1,0 +1,18 @@
+.weather-card {
+  margin: 20px auto;
+  padding: 20px;
+  width: 300px;
+  border: 2px solid #0077ff;
+  border-radius: 10px;
+  background: #f0f8ff;
+  box-shadow: 0px 4px 6px rgba(0,0,0,0.2);
+}
+
+.weather-card h2 {
+  margin-bottom: 10px;
+}
+
+.weather-card p {
+  font-size: 16px;
+  margin: 5px 0;
+}

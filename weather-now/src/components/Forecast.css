@@ -1,0 +1,20 @@
+.forecast {
+  margin-top: 20px;
+}
+
+.forecast-grid {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.forecast-card {
+  background: #ffffff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+  width: 120px;
+  text-align: center;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+}
