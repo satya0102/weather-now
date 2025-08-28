@@ -6,7 +6,8 @@
 
 
 #live demo
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a15040fe-72f2-47cf-b97c-6982df83f4cd/deploy-status)](https://app.netlify.com/projects/weather-now-satya/deploys)
+https://68b04a8449925a0094a1fb1a--weather-now-satya.netlify.app/
+
 
 
 ## Available Scripts
